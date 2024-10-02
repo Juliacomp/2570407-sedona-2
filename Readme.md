@@ -2,6 +2,8 @@
 
 * Студент: [Iuliia Shut](https://up.htmlacademy.ru/htmlcss-individual/2/user/2570407).
 * Наставник: [Ирина Малиновская] (https://htmlacademy.ru/profile/irina-malinovskaya).
+* Сайт: [Мой проэкт Седона] (https://juliacomp.github.io/2570407-sedona-2/).
+
 
 ---
 
